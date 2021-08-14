@@ -6,7 +6,7 @@
 5.修改博客
 6.删除博客
 
-![](https://images.gitee.com/uploads/images/2021/0814/205249_207a2e53_1013055.png "屏幕截图.png")
+![](https://images.gitee.com/uploads/images/2021/0814/205358_3cd79b38_1013055.png "屏幕截图.png")
 
 # 技术特色  
 后端:SpringBoot+MyBatis+MySQL  
