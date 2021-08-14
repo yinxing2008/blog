@@ -33,5 +33,4 @@ http://localhost:8090/#/blog/login
 # 作者信息  
 10年软件开发+5年编程培训教学经验  
 想学编程的可以联系我,QQ:309032663
-
-![](https://images.gitee.com/uploads/images/2021/0814/204328_28366d82_1013055.png)
+![](https://images.gitee.com/uploads/images/2021/0814/204456_01b7d0dd_1013055.png "屏幕截图.png")
