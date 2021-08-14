@@ -6,6 +6,8 @@
 5.修改博客
 6.删除博客
 
+![](https://images.gitee.com/uploads/images/2021/0814/204622_af94aeef_1013055.png "屏幕截图.png")
+
 # 技术特色  
 后端:SpringBoot+MyBatis+MySQL  
 前端:Vue+Vuex+ElementUI   
